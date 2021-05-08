@@ -26,7 +26,7 @@ L'adresse IP à la fin est celle de la machine cible (debian).
 
 ### Résultat :
 
-![](https://cdn.discordapp.com/attachments/760983046539182090/839229552647208960/flood.jpg)
+![alt text](https://cdn.discordapp.com/attachments/760983046539182090/839229552647208960/flood.jpg)
 &nbsp;
 
 Comme on peut le voir sur cette image, le temps de réponse de ping entre les 2VM est inférieur à 1ms quand on ne fait rien et quand l'attaque est lancé il atteint un pic à 779ms.
