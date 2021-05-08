@@ -31,7 +31,7 @@ L'adresse IP à la fin est celle de la machine cible (debian).
 
 Comme on peut le voir sur cette image, le temps de réponse de ping entre les 2VM est inférieur à 1ms quand on ne fait rien et quand l'attaque est lancé il atteint un pic à 779ms.
 
-![](https://cdn.discordapp.com/attachments/760983046539182090/839231232339869706/flood.jpg)
+![Screenshot](https://cdn.discordapp.com/attachments/760983046539182090/839231232339869706/flood.jpg)
 &nbsp;
 
 Et sur cette image on peut voir grâce au wireshark que les paquets sont bien envoyés.
